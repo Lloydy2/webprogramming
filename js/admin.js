@@ -30,7 +30,7 @@ $(document).ready(function () {
     } else if (url.endsWith("products")) {
       $("#products-link").trigger("click");
     } else if (url.endsWith("accounts")) {
-      $("accounts-link").trigger("click");
+      $("#accounts-link").trigger("click");
     } else {
       $("#dashboard-link").trigger("click");
     }
