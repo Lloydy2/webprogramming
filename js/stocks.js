@@ -10,4 +10,3 @@ stocksRDB.forEach(rdb => {
         }
     })
 })
-
